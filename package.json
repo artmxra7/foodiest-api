@@ -7,7 +7,7 @@
     "test": "test",
     "dev": "test",
     "build": "test",
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/app.js"
   },
   "keywords": [
     "foodies",
